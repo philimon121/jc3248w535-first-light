@@ -17,9 +17,9 @@ Known-good PlatformIO baseline for the JC3248W535 capacitive-touch ESP32-S3 boar
 This repo preserves a known-good recovery point before further development.
 
 Credit's for creating the working library for this board:
-https://github.com/me-processware/JC3248W535-Driver
+https://github.com/me-processware/JC3248W535-Driver - archived herein as https://github.com/philimon121/jc3248w535-first-light/blob/main/JC3248W535-Driver-master.zip
 
-Hi origional README.MD:
+ ## Origional README.MD from https://github.com/me-processware/JC3248W535-Driver:
 
 Clean, minimal driver for the **JC3248W535** 3.5" IPS touchscreen display module with ESP32-S3.
 
