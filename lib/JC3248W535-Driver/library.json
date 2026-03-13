@@ -1,0 +1,7 @@
+{
+  "name": "JC3248W535-Driver",
+  "version": "0.1.0",
+  "build": {
+    "srcDir": "src"
+  }
+}
